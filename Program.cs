@@ -14,4 +14,4 @@ Console.Write("Digite a terceira palavra: ");
 Palavra3 = Console.ReadLine()!;
 Console.WriteLine();
 
-Console.WriteLine($"{Palavra1.PadLeft(15)}\n{Palavra2.PadLeft(15)}\n {Palavra3.PadLeft(15)}");
+Console.WriteLine($"{Palavra1.PadLeft(20)}\n{Palavra2.PadLeft(20)}\n{Palavra3.PadLeft(20)}");
